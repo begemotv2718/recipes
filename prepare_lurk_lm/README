@@ -1,0 +1,3 @@
+Prepare language model based on texts. Texts should be supplied in
+data/local/text_{train,test}.txt in the format <speaker> <text>
+<speaker> field is ignored.
